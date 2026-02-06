@@ -1,6 +1,4 @@
-# עמית | דפי נחיתה שמייצרים לקוחות — Generative Engine Optimization Map
-
-> A שירותי שיווק דיגיטלי business.
+# Business — Generative Engine Optimization Map
 
 ---
 
@@ -8,12 +6,6 @@
 
 ### Home
 https://amit-landing-pages-that-genera.zappy5.app
-
-### Services
-https://amit-landing-pages-that-genera.zappy5.app/services
-
-### Case Studies
-https://amit-landing-pages-that-genera.zappy5.app/case-studies
 
 ### Contact
 https://amit-landing-pages-that-genera.zappy5.app/contact
@@ -36,23 +28,7 @@ Information about WCAG compliance and accessibility features.
 
 # Business Context (for LLM understanding)
 
-## About עמית | דפי נחיתה שמייצרים לקוחות
-עמית | דפי נחיתה שמייצרים לקוחות is a business in the שירותי שיווק דיגיטלי industry.
-
-## Services/Products
-- מסר חד וממוקד לקהל יעד
-- עיצוב נקי שמייצר אמון
-- דפים מותאמים לפרסום ממומן (אינסטגרם, טיקטוק, גוגל)
-- חווית משתמש מושלמת במובייל
-- מהירות טעינה מקסימלית
-- תהליך עבודה קצר עם תוצאות ברורות
-
-## Target Audience
-עסקים המפרסמים בפלטפורמות דיגיטליות
-
-## Industry
-שירותי שיווק דיגיטלי
-
+## About Business
 ---
 
 # Additional Resources
